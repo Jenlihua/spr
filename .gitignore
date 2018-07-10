@@ -40,3 +40,4 @@ build/
 *.ipr
 *.iws
 *.idea
+.deal/
